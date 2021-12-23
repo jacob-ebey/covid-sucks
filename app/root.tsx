@@ -6,7 +6,7 @@ import Layout from "./components/layout";
 import tailwindHref from "./styles/tailwind.css";
 
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
+  return { title: "COVID Sucks!" };
 };
 
 export const links: LinksFunction = () => {
