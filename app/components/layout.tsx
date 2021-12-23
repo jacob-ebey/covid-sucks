@@ -11,7 +11,7 @@ type NavbarItem = {
 };
 
 const NAVBAR_ITEMS: NavbarItem[] = [
-  { to: "/", label: "Dashboard", shownIn: "both" },
+  // { to: "/", label: "Dashboard", shownIn: "both" },
 ];
 
 export default function Layout({ children }: { children: ReactNode }) {
